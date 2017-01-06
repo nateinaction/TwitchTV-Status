@@ -2,7 +2,7 @@
 # TwitchTV Status
 ### Built with React + Redux
 
-A wealth of knowledge at your fingertips... yay!
+Check the status of your favorite streamers on Twitch.
 
 Demo: [https://codepen.io/nateinaction/full/egNvJN/](https://codepen.io/nateinaction/full/egNvJN/)
 
